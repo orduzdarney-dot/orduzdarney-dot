@@ -32,7 +32,9 @@ Hola, soy **TU NOMBRE**, desarrollador de software desde **TU PAÍS**. Me gusta 
 <h2 align="center">my perfect stack</h2>
 
 <p align="center">
+   <a href="#">
   <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,java,git,github,vscode" />
+   </a>
 </p>
 
 ---
