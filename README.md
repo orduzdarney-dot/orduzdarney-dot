@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="./banner.svg" width="100%" alt="profile banner" />
+  <a href="#">
+    <img src="./banner.svg?v=2" width="100%" alt="profile banner" />
+  </a>
 </p>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+here+since+day+one;Python+%7C+JavaScript+%7C+MySQL;Aprendiendo+Java+d%C3%ADa+a+d%C3%ADa" alt="typing" />
