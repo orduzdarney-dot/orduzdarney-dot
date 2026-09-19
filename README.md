@@ -21,13 +21,15 @@
 
 <h2 align="center">This is me :)</h2>
 
-Hola, soy **TU NOMBRE**, desarrollador de software desde **TU PAÍS**. Me gusta construir cosas que funcionen y aprender algo nuevo con cada proyecto.
+Hola, soy **Christofer Orduz**, desarrollador de software desde **Colombia**. Me gusta construir cosas que funcionen y aprender algo nuevo con cada proyecto.
 
 - 💻 Desarrollo con **Python, JavaScript, HTML y CSS**
 - 🗄️ Trabajo con bases de datos **MySQL**
 - ☕ Aprendiendo **Java** (en proceso)
 - 🌱 **Mi objetivo:** seguir creciendo, compartir lo que aprendo y lanzar proyectos reales
 - 💬 Háblame de desarrollo web y código, con gusto te respondo
+
+---
 
 <h2 align="center">my perfect stack</h2>
 
@@ -60,4 +62,4 @@ Hola, soy **TU NOMBRE**, desarrollador de software desde **TU PAÍS**. Me gusta 
 
 ---
 
-<p align="center"><code>Build with love · @orduzdarney-dot</code></p>
+<p align="center"><code>@orduzdarney-dot</code></p>
