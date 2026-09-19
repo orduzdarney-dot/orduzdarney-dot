@@ -1,16 +1,56 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.svg" alt="profile.sh --live" width="720" />
+</p>
 
-<!--
-**orduzdarney-dot/orduzdarney-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+here+since+day+one;Python+%7C+JavaScript+%7C+MySQL;Aprendiendo+Java+d%C3%ADa+a+d%C3%ADa" alt="typing" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/TU_USUARIO"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://x.com/TU_USUARIO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=orduzdarney-dot&label=profile+views&color=8957e5&style=flat" />
+</p>
+
+---
+
+<h2 align="center">This is me :)</h2>
+
+Hola, soy **TU NOMBRE**, desarrollador de software desde **TU PAÍS**. Me gusta construir cosas que funcionen y aprender algo nuevo con cada proyecto.
+
+- 💻 Desarrollo con **Python, JavaScript, HTML y CSS**
+- 🗄️ Trabajo con bases de datos **MySQL**
+- ☕ Aprendiendo **Java** (en proceso)
+- 🌱 **Mi objetivo:** seguir creciendo, compartir lo que aprendo y lanzar proyectos reales
+- 💬 Háblame de desarrollo web y código, con gusto te respondo
+
+<h2 align="center">my perfect stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,java,git,github,vscode" />
+</p>
+
+---
+
+<h2 align="center">signals</h2>
+
+<p align="center">
+  <img src="signals.svg" alt="Skill Radar y Language Stack" width="100%" />
+</p>
+
+---
+
+<h2 align="center">Numbers matter? ohhh yes.</h2>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=orduzdarney-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orduzdarney-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+---
+
+<p align="center"><code>Build with love · @orduzdarney-dot</code></p>
