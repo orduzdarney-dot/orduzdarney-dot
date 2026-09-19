@@ -42,7 +42,9 @@ Hola, soy **TU NOMBRE**, desarrollador de software desde **TU PAÍS**. Me gusta 
 <h2 align="center">signals</h2>
 
 <p align="center">
+  <a href="#">
   <img src="signals.svg" alt="Skill Radar y Language Stack" width="100%" />
+  </a>  
 </p>
 
 ---
@@ -50,8 +52,10 @@ Hola, soy **TU NOMBRE**, desarrollador de software desde **TU PAÍS**. Me gusta 
 <h2 align="center">Numbers matter? ohhh yes.</h2>
 
 <p align="center">
+  <a href="#">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=orduzdarney-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=orduzdarney-dot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>  
 </p>
 
 ---
