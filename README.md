@@ -15,9 +15,9 @@ christofer-darney-orduz-niño-210410351"><img src="https://img.shields.io/badge/
 </p>
 
 <p align="center">
-  <a>
-  <img src="#" />
-  </a>
+   <a href="#">
+  <img src="https://komarev.com/ghpvc/?username=orduzdarney-dot&label=profile+views&color=8957e5&style=flat" />
+   </a>
 </p>
 
 ---
