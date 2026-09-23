@@ -8,9 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/TU_USUARIO"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/TU_USUARIO"><img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://x.com/TU_USUARIO"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="www.linkedin.com/in/christofer-darney-orduz-niño-210410351"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ 
+  
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@ Hola, soy **Christofer Orduz**, desarrollador de software desde **Colombia**. Me
 
 ---
 
-<h2 align="center">Numbers matter? ohhh yes.</h2>
+<h2 align="center">Numbers matter? ohh yes.</h2>
 
 <p align="center">
   <a href="#">
