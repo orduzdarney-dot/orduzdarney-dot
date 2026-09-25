@@ -54,7 +54,7 @@ Hola, soy **Christofer Orduz**, desarrollador de software desde **Colombia**. Me
 
 ---
 
-<h2 align="center">Numbers matter? ohh yes.</h2>
+<h2 align="center">.</h2>
 
 <p align="center">
   <a href="#">
