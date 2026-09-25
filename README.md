@@ -53,7 +53,7 @@ Hola, soy **Christofer Orduz**, desarrollador de software de **Colombia**. Me gu
 </p>
 
 ---
-<h2 align="center">stats</h2>
+<h2 align="center">Estadisticas</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=orduzdarney-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7fb4ff&icon_color=3fb950&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" width="100%" />
