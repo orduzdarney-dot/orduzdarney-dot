@@ -22,9 +22,9 @@ christofer-darney-orduz-niño-210410351"><img src="https://img.shields.io/badge/
 
 ---
 
-<h2 align="center">This is me :)</h2>
+<h2 align="center">Sobre Mi</h2>
 
-Hola, soy **Christofer Orduz**, desarrollador de software desde **Colombia**. Me gusta construir cosas que funcionen y aprender algo nuevo con cada proyecto.
+Hola, soy **Christofer Orduz**, desarrollador de software de **Colombia**. Me gusta construir cosas que funcionen y aprender algo nuevo con cada proyecto.
 
 - 💻 Desarrollo con **Python, JavaScript, HTML y CSS**
 - 🗄️ Trabajo con bases de datos **MySQL**
@@ -34,17 +34,17 @@ Hola, soy **Christofer Orduz**, desarrollador de software desde **Colombia**. Me
 
 ---
 
-<h2 align="center">my perfect stack</h2>
+<h2 align="center">Mi Stack  </h2>
 
 <p align="center">
    <a href="#">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,java,git,github,vscode,excel" />
    </a>
 </p>
 
 ---
 
-<h2 align="center">signals</h2>
+<h2 align="center">Radar De Habilidades y Combinacion De Lenguajes</h2>
 
 <p align="center">
   <a href="#">
