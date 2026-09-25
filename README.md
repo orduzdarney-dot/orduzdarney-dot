@@ -4,19 +4,19 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=520&lines=Building+here+since+day+one;Python+%7C+JavaScript+%7C+MySQL;Mejorando+d%C3%ADa+a+d%C3%ADa" alt="typing" />
+  <img src="https://demolab.com" alt="typing" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/christofer-darney-orduz-niño-210410351"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
- 
-  
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Badge" />
+  </a>
 </p>
 
 <p align="center">
-   <a href="#">
-  <img src="https://komarev.com/ghpvc/?username=orduzdarney-dot&label=profile+views&color=8957e5&style=flat" />
-   </a>
+  <a href="#">
+    <img src="https://komarev.com" alt="Profile Views" />
+  </a>
 </p>
 
 ---
@@ -33,12 +33,12 @@ Hola, soy **Christofer Orduz**, desarrollador de software de **Colombia**. Me gu
 
 ---
 
-<h2 align="center">Mi Stack  </h2>
+<h2 align="center">Mi Stack</h2>
 
 <p align="center">
-   <a href="#">
-  <img src="https://skillicons.dev/icons?i=py,js,html,css,mysql,java,git,github,vscode,excel" />
-   </a>
+  <a href="#">
+    <img src="https://skillicons.dev" alt="My Skills" />
+  </a>
 </p>
 
 ---
@@ -47,19 +47,19 @@ Hola, soy **Christofer Orduz**, desarrollador de software de **Colombia**. Me gu
 
 <p align="center">
   <a href="#">
-  <img src="signals.svg" alt="Skill Radar y Language Stack" width="100%" />
+    <img src="signals.svg" alt="Skill Radar y Language Stack" width="100%" />
   </a>  
 </p>
 
 ---
 
-
-<h2 align="center">stats</h2>
+<h2 align="center">Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=orduzdarney-dot&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7fb4ff&icon_color=3fb950&text_color=c9d1d9&border_radius=8" alt="GitHub Stats" width="100%" />
+  <img src="https://vercel.app" alt="GitHub Stats" width="100%" />
 </p>
 
 ---
 
 <p align="center"><code>@orduzdarney-dot</code></p>
+
